@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Change 1
 Change 2
+=======
+
+>>>>>>> parent of f17b101... change 1
